@@ -1,0 +1,12 @@
+<a:Administrator:788459507612254218> • **Administrator:** Cichy#6275
+<:Uzytkownik:788459505947902073> • **Użytkownik:** Cichy#6275
+<a:Powod:788459506870910986> • **Powód:** Naruszenie regulaminu serwera. Flood zawarty w wiadomości.
+<:Data:790199933692280843> • **Data:** 15.1.2021
+<:Godzina:792749176554389525> • **Godzina:** 23:28
+
+<a:Administrator:788459507612254218> • **Administrator:** Cichy#6275
+<:Uzytkownik:788459505947902073> • **Użytkownik:** Cichy#6275
+<a:Powod:788459506870910986> • **Powód:** Test.
+<:Data:790199933692280843> • **Data:** 15.1.2021
+<:Godzina:792749176554389525> • **Godzina:** 23:30
+
